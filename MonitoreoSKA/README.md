@@ -1,6 +1,6 @@
 # MonitoreoSKA – Primer entregable con Node.js + React
 
-Esta versión toma como base el proyecto MonitoreoSKA original de Spring Boot y lo adapta a una arquitectura educativa con **Node.js/Express + React/Vite**.
+El proyecto MonitoreoSKA original es hecho a base de una arquitectura educativa con **Node.js/Express + React/Vite**.
 
 ## Funciones
 - Dashboard.
@@ -49,7 +49,7 @@ POST `/api/alerts/:id/acknowledge`
 POST `/api/alerts/:id/resolve`
 
 ## GitHub
-Crear un repositorio llamado `MonitoreoSKA-Node-React` y ejecutar:
+`MonitoreoSKA` y ejecutar:
 `git init`
 `git add .`
 `git commit -m "Primer entregable MonitoreoSKA con React y Node.js"`
@@ -57,4 +57,3 @@ Crear un repositorio llamado `MonitoreoSKA-Node-React` y ejecutar:
 `git remote add origin URL_DEL_REPOSITORIO`
 `git push -u origin main`
 
-No subir `node_modules/`.
